@@ -37,3 +37,6 @@ gulp a11y
 ~~~
 This will run an audit on the url identified in the *appConfig.a11y* variable.
 If you would like to change the audit url, just find this task in the gulpfile *gulp.task('a11y', function() { .... * and change *appConfig.a11y* to "http://my_audit.url"
+
+# Additional - use the sass 7-1 architecture pattern
+from the theme root clone this repo *https://github.com/leigit/sass-boilerplate.git*
