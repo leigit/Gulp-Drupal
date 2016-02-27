@@ -1,0 +1,31 @@
+{
+  "name": "Gulp-Drupal-Starter",
+  "version": "1.0.0",
+  "description": "Basic Gulp and Sass project starter for Drupal websites",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "author": "Leigh Gittoes",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "a11y": "^0.4.0",
+    "browser-sync": "^2.9.8",
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^3.0.2",
+    "gulp-cssnano": "^2.0.0",
+    "gulp-if": "^2.0.0",
+    "gulp-load-plugins": "^1.1.0",
+    "gulp-plumber": "^1.0.1",
+    "gulp-postcss": "^6.1.0",
+    "gulp-sass": "^2.0.4",
+    "gulp-sass-glob": "0.0.8",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-util": "^3.0.7",
+    "postcss": "^5.0.14",
+    "postcss-svg": "^1.0.4",
+    "run-sequence": "^1.1.4",
+    "sassdoc": "^2.1.15"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Gulp-Drupal-Starter",
+  "version": "1.0.0",
+  "authors": [
+    "Leigh Gittoes <leighgittoes@gmail.com>"
+  ],
+  "description": "Gulp and Sass project starter for Drupal",
+  "main": "gulpfile.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize-scss": "~3.0.3",
+    "zen-grids": "~2.0.1",
+    "breakpoint": "~4.6.4"
+  }
+}
